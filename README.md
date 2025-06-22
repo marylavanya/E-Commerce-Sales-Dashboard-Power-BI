@@ -9,13 +9,13 @@ An interactive Power BI dashboard that analyzes YTD sales, profit, margin, and p
 ### 📷 Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/thumma09/sales/blob/main/Dashboard.png?raw=true" alt="E-Commerce Power BI Dashboard" width="800"/>
+  <img src="https://github.com/marylavanya/E-Commerce-Sales-Dashboard-Power-BI/blob/main/Dashboard.png?raw=true" alt="E-Commerce Power BI Dashboard" width="800"/>
 </p>
 
 
 
 ## 📥 Download the Power BI File
-Explore the full Power BI project with data model and custom DAX measures : ** ➡️ [Download the pbix File](https://github.com/thumma09/sales/blob/main/E-Commerce%20Sales%20Dashboard.pbix?raw=true)**
+Explore the full Power BI project with data model and custom DAX measures : ** ➡️ [Download the pbix File](https://github.com/marylavanya/E-Commerce-Sales-Dashboard-Power-BI/blob/main/E-Commerce%20Sales%20Dashboard.pbix?raw=true)**
 
 ## 📚 Table of Contents
 - [Executive Summary](#executive-summary)
