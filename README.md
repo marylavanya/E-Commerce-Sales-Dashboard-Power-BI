@@ -29,7 +29,7 @@ Explore the full Power BI project with data model and custom DAX measures : ** �
 This Power BI dashboard empowers business leaders and analysts to make fast, data-driven decisions by providing:
 
 - 📉 **Detect underperforming** regions, products, and categories in real time.
-- 📈 **Monitor year-over-year (YoY)** growth trends across sales, profit, and quantity. 
+- 📈 **Monitor year-over-year (YoY)** growth trends across sales, profit, and quantity.
 - 👥 **Analyze customer behavior** across segments (Consumer, Corporate, Home Office).  
 - 🕒 **Enable time-based comparisons** using dynamic YTD and PYTD measures.  
 - 📊 **Quickly assess KPIs** through conditional formatting and trend arrows.  
